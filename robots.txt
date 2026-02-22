@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://teambohr.pages.dev/sitemap.xml
+Sitemap: https://teambohr.com/sitemap.xml
